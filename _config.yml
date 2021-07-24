@@ -1,15 +1,15 @@
 # Site
 name: "KenShare"
 title: "KenShare"
-description: ""
+description: "To Share Knowledge"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /kenshare
 google_analytics: 'UA-xxxxxxxx-1'
-disqus: 'KenSharedemowebsite'
+disqus: 'KenShare'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: adeeshajayanath@gmail.com
 
 # Authors
 authors:
